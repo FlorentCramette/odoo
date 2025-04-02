@@ -1,0 +1,8 @@
+2025-04-02 11:11:18,027 1876 INFO ? odoo: Odoo version 18.0 
+2025-04-02 11:11:18,029 1876 INFO ? odoo: Using configuration file at C:\src\odoo\odoo.conf 
+2025-04-02 11:11:18,029 1876 INFO ? odoo: addons paths: ['C:\\src\\odoo\\odoo\\addons', 'c:\\users\\easi-\\appdata\\local\\openerp s.a\\odoo\\addons\\18.0', 'c:\\src\\odoo\\addons', 'c:\\src\\tutorials', 'c:\\src\\odoo\\odoo\\addons'] 
+2025-04-02 11:11:18,029 1876 INFO ? odoo: database: test_odoo_flo@localhost:5432 
+2025-04-02 11:17:12,442 1612 INFO ? odoo: Odoo version 18.0 
+2025-04-02 11:17:12,442 1612 INFO ? odoo: Using configuration file at C:\src\odoo\odoo.conf 
+2025-04-02 11:17:12,442 1612 INFO ? odoo: addons paths: ['C:\\src\\odoo\\odoo\\addons', 'c:\\users\\easi-\\appdata\\local\\openerp s.a\\odoo\\addons\\18.0', 'c:\\src\\odoo\\addons', 'c:\\src\\tutorials', 'c:\\src\\odoo\\odoo\\addons'] 
+2025-04-02 11:17:12,449 1612 INFO ? odoo: database: test_odoo_flo@localhost:5432 
